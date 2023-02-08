@@ -18,19 +18,19 @@ function App() {
       name: "Mostafa Nabavi",
       age: 25,
       url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyqG7porBCMwFKPARL0JyDIfEEMwPYtA7XEZcZ7nZD5g&s",
-      note: "He is still single and looking for a partner:).",
+      note: "He has allergic to meat and rice :(.",
     },
     {
       name: "Hamid Hussaini",
       age: 24,
       url: "https://avatars.githubusercontent.com/u/77102797?s=70&v=4",
-      note: "He is so lucky because he is an only child:).",
+      note: "He eats a lot.",
     },
     {
       name: "Sayed Hasan Hussaini",
       age: 25,
       url: "https://avatars.githubusercontent.com/u/83859543?s=70&v=4",
-      note: "He is very eager to learn English:).",
+      note: "He eats every kinds of foods..",
     },
   ]);
   return (
